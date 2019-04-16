@@ -1,5 +1,5 @@
 #!/bin/env bash
-# Author: Ben Vaughan -- LYONSCG -- bvaughan@lyonscg.com
+# Author: Ben Vaughan -- 
 #
 # xtrabackup Documentation: https://www.percona.com/doc/percona-xtrabackup/LATEST/backup_scenarios/incremental_backup.html
 # Assumption: xtrabackup >= 2.4 available
